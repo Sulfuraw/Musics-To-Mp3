@@ -1,4 +1,7 @@
 .env
 .spotify_cache
 .cache
-downloads
+track_genres.json
+*.pyc
+__pycache__/
+downloads/
